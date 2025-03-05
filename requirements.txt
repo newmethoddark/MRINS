@@ -1,0 +1,7 @@
+telebot
+asyncio
+aiohttp
+certifi
+pymongo
+pytz
+psutil
